@@ -1,4 +1,4 @@
-import getArrays from "./getArrays";
+import getArrays from "./application";
 import readlineSync from "readline-sync";
 
 export default () => {
